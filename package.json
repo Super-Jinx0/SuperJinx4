@@ -1,0 +1,14 @@
+{
+  "name": "ali93",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Jinx: private AI panel with brand-themed models, live build view, image and video generation",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  }
+}

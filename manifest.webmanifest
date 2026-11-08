@@ -1,0 +1,11 @@
+{
+  "name": "Jinx جینکس",
+  "short_name": "Jinx",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfcfb",
+  "theme_color": "#5b3df5",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
